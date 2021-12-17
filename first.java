@@ -10,3 +10,4 @@
      ansible.builtin.service:
        name: httpd
        state: started
+  install httpd
